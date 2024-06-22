@@ -38,11 +38,11 @@
     - Nhập mã lớp trước, sau đó nhập các sinh viên vào lớp đó.
 
 ### C. Quản lý Môn học
-   **Nhập Môn học**
+1. **Nhập Môn học**
     - Thêm, xóa, hiệu chỉnh thông tin của môn học.
 
 ### D. Quản lý Câu hỏi thi
-   **Nhập Câu hỏi thi**
+1. **Nhập Câu hỏi thi**
     - Id là số nguyên dương ngẫu nhiên do chương trình tự tạo.
 
 ### E. Thi Trắc nghiệm
